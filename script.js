@@ -1,3 +1,5 @@
+//LePhuongVu - 12/2/2025 - First project
+
 let runningTotal = 0;
 let buffer = "0";
 let previousOperator;
